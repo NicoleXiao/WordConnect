@@ -1,0 +1,12 @@
+Key,type(0-task 1-reward 2-nonthing) ),Task,MinNum,MaxNum,RewardID,RewardNum,chance
+1,0,Collect {0} "GoodJob" in the game!,5,20,10001,10,10
+2,0,Collect {0} "welldone" in the game!,5,20,10001,10,10
+3,0,Collect {0} "excellent" in the game!,5,20,10001,10,10
+4,0,Collect {0} "amazing" in the game!,5,20,10001,10,10
+5,0,Collect {0} "fantastic" in the game!,5,20,10001,10,5
+6,2,Thanks!,0,0,0,0,10
+7,0,Pass {0} Levels!,5,5,10001,5,10
+8,1,{0} Gems,20,100,10001,1,5
+9,1,{0} Hints,1,5,10002,1,5
+10,2,Have a nice Day!,0,0,0,0,10
+11,2,Play Funny!,0,0,0,0,10

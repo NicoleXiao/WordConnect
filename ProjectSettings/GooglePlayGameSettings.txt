@@ -1,0 +1,10 @@
+lastUpgrade=00939
+proj.AppId=48331476581
+proj.ConstantsClassName=UnityCore.GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e48331476581%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.superpow.wordchef%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_1%22%3eCgkI5ZyfhrQBEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_2%22%3eCgkI5ZyfhrQBEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_3%22%3eCgkI5ZyfhrQBEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_4%22%3eCgkI5ZyfhrQBEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_achievement_5%22%3eCgkI5ZyfhrQBEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_score%22%3eCgkI5ZyfhrQBEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
+proj.pluginVersion=0.9.39a
+and.BundleId=com.superpow.wordchef
+proj.classDir=Assets
+proj.requireGPlus=false

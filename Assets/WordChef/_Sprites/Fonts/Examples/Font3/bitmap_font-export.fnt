@@ -1,0 +1,35 @@
+info face="C:\Users\Mr.Zero\Desktop\bitmap_font-export" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=80 base=26 scaleW=581 scaleH=643 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="bitmap_font-export.png"
+chars count=28
+char id=65 x=208 y=387 width=97 height=128 xoffset=0 yoffset=-48 xadvance=98 page=0 chnl=0 letter="A"
+char id=66 x=306 y=384 width=95 height=127 xoffset=0 yoffset=-47 xadvance=96 page=0 chnl=0 letter="B"
+char id=67 x=108 y=387 width=99 height=130 xoffset=0 yoffset=-48 xadvance=100 page=0 chnl=0 letter="C"
+char id=68 x=137 y=0 width=98 height=127 xoffset=0 yoffset=-47 xadvance=99 page=0 chnl=0 letter="D"
+char id=69 x=493 y=128 width=87 height=127 xoffset=0 yoffset=-47 xadvance=88 page=0 chnl=0 letter="E"
+char id=70 x=492 y=385 width=85 height=127 xoffset=0 yoffset=-47 xadvance=86 page=0 chnl=0 letter="F"
+char id=71 x=108 y=256 width=105 height=130 xoffset=0 yoffset=-48 xadvance=106 page=0 chnl=0 letter="G"
+char id=72 x=236 y=0 width=95 height=127 xoffset=0 yoffset=-47 xadvance=96 page=0 chnl=0 letter="H"
+char id=73 x=512 y=0 width=32 height=127 xoffset=0 yoffset=-47 xadvance=33 page=0 chnl=0 letter="I"
+char id=74 x=494 y=256 width=76 height=128 xoffset=0 yoffset=-46 xadvance=77 page=0 chnl=0 letter="J"
+char id=75 x=310 y=256 width=91 height=127 xoffset=0 yoffset=-47 xadvance=92 page=0 chnl=0 letter="K"
+char id=76 x=492 y=513 width=84 height=127 xoffset=0 yoffset=-47 xadvance=85 page=0 chnl=0 letter="L"
+char id=77 x=0 y=128 width=113 height=127 xoffset=0 yoffset=-47 xadvance=114 page=0 chnl=0 letter="M"
+char id=78 x=214 y=256 width=95 height=127 xoffset=0 yoffset=-47 xadvance=96 page=0 chnl=0 letter="N"
+char id=79 x=0 y=388 width=107 height=130 xoffset=0 yoffset=-48 xadvance=108 page=0 chnl=0 letter="O"
+char id=80 x=332 y=0 width=89 height=127 xoffset=0 yoffset=-47 xadvance=90 page=0 chnl=0 letter="P"
+char id=81 x=0 y=256 width=107 height=131 xoffset=0 yoffset=-48 xadvance=108 page=0 chnl=0 letter="Q"
+char id=82 x=310 y=128 width=92 height=127 xoffset=0 yoffset=-47 xadvance=93 page=0 chnl=0 letter="R"
+char id=83 x=400 y=512 width=91 height=130 xoffset=0 yoffset=-48 xadvance=92 page=0 chnl=0 letter="S"
+char id=84 x=214 y=128 width=95 height=127 xoffset=0 yoffset=-47 xadvance=96 page=0 chnl=0 letter="T"
+char id=85 x=402 y=256 width=91 height=128 xoffset=0 yoffset=-46 xadvance=92 page=0 chnl=0 letter="U"
+char id=86 x=306 y=512 width=93 height=127 xoffset=0 yoffset=-47 xadvance=94 page=0 chnl=0 letter="V"
+char id=87 x=0 y=0 width=136 height=127 xoffset=0 yoffset=-47 xadvance=137 page=0 chnl=0 letter="W"
+char id=88 x=403 y=128 width=89 height=127 xoffset=0 yoffset=-47 xadvance=90 page=0 chnl=0 letter="X"
+char id=89 x=422 y=0 width=89 height=127 xoffset=0 yoffset=-47 xadvance=90 page=0 chnl=0 letter="Y"
+char id=90 x=114 y=128 width=99 height=127 xoffset=0 yoffset=-47 xadvance=100 page=0 chnl=0 letter="Z"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0
+

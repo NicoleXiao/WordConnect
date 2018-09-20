@@ -1,0 +1,151 @@
+ID,Describe,Level,RewardType(3-bronze 2-silver 1-gold  ),RewardID,RewardNum
+1,Pass Level {0},15,3,10001,10
+1,Pass Level {0},30,3,10001,10
+1,Pass Level {0},80,3,10001,10
+1,Pass Level {0},150,3,10001,10
+1,Pass Level {0},300,3,10001,10
+1,Pass Level {0},500,2,10001,20
+1,Pass Level {0},700,2,10001,20
+1,Pass Level {0},1000,2,10001,20
+2,Gain {0}"Fantastic",10,3,10001,10
+2,Gain {0}"Fantastic",50,3,10001,10
+2,Gain {0}"Fantastic",100,3,10001,10
+2,Gain {0}"Fantastic",500,2,10001,20
+2,Gain {0}"Fantastic",1000,2,10001,20
+2,Gain {0}"Fantastic",2000,1,10001,30
+3,Login in {0} days,1,3,10001,10
+3,Login in {0} days,3,3,10001,10
+3,Login in {0} days,7,2,10001,20
+3,Login in {0} days,12,2,10001,20
+3,Login in {0} days,18,2,10001,20
+3,Login in {0} days,25,1,10001,30
+3,Login in {0} days,30,1,10001,30
+4,Login {0} days in a row,3,2,10001,20
+4,Login {0} days in a row,5,2,10001,20
+4,Login {0} days in a row,7,2,10001,20
+4,Login {0} days in a row,15,1,10001,30
+5,Connect {0} words,50,3,10001,10
+5,Connect {0} words,100,3,10001,10
+5,Connect {0} words,300,3,10001,10
+5,Connect {0} words,500,3,10001,10
+5,Connect {0} words,800,3,10001,10
+5,Connect {0} words,1000,3,10001,10
+5,Connect {0} words,1500,2,10001,20
+5,Connect {0} words,2000,2,10001,20
+5,Connect {0} words,2500,2,10001,20
+5,Connect {0} words,3000,2,10001,20
+5,Connect {0} words,3500,2,10001,20
+5,Connect {0} words,4000,2,10001,20
+5,Connect {0} words,4500,1,10001,30
+5,Connect {0} words,5000,1,10001,30
+6,Complete {0} Daily Challenge,1,3,10001,10
+6,Complete {0} Daily Challenge,3,3,10001,10
+6,Complete {0} Daily Challenge,5,3,10001,10
+6,Complete {0} Daily Challenge,7,3,10001,10
+6,Complete {0} Daily Challenge,9,3,10001,10
+6,Complete {0} Daily Challenge,12,2,10001,20
+6,Complete {0} Daily Challenge,15,2,10001,20
+6,Complete {0} Daily Challenge,18,2,10001,20
+6,Complete {0} Daily Challenge,20,2,10001,20
+6,Complete {0} Daily Challenge,30,1,10001,30
+6,Complete {0} Daily Challenge,50,1,10001,30
+7,Gain {0} Stars,100,3,10001,10
+7,Gain {0} Stars,200,3,10001,10
+7,Gain {0} Stars,300,3,10001,10
+7,Gain {0} Stars,500,3,10001,10
+7,Gain {0} Stars,800,3,10001,10
+7,Gain {0} Stars,1000,2,10001,20
+7,Gain {0} Stars,1200,2,10001,20
+7,Gain {0} Stars,1500,2,10001,20
+7,Gain {0} Stars,1800,2,10001,20
+7,Gain {0} Stars,2000,1,10001,30
+8,Collect {0} constellation,1,3,10001,10
+8,Collect {0} constellation,3,3,10001,10
+8,Collect {0} constellation,5,3,10001,10
+8,Collect {0} constellation,7,3,10001,10
+8,Collect {0} constellation,9,3,10001,10
+8,Collect {0} constellation,11,3,10001,10
+8,Collect {0} constellation,13,3,10001,10
+8,Collect {0} constellation,15,3,10001,10
+8,Collect {0} constellation,20,3,10001,10
+8,Collect {0} constellation,25,3,10001,10
+8,Collect {0} constellation,30,3,10001,10
+8,Collect {0} constellation,40,2,10001,20
+8,Collect {0} constellation,50,2,10001,20
+8,Collect {0} constellation,60,2,10001,20
+8,Collect {0} constellation,70,2,10001,20
+8,Collect {0} constellation,80,1,10001,30
+9,Find {0} Extra Words,10,3,10001,10
+9,Find {0} Extra Words,30,3,10001,10
+9,Find {0} Extra Words,50,3,10001,10
+9,Find {0} Extra Words,80,3,10001,10
+9,Find {0} Extra Words,100,3,10001,10
+9,Find {0} Extra Words,120,3,10001,10
+9,Find {0} Extra Words,150,3,10001,10
+9,Find {0} Extra Words,200,3,10001,10
+9,Find {0} Extra Words,300,3,10001,10
+9,Find {0} Extra Words,400,2,10001,20
+9,Find {0} Extra Words,500,2,10001,20
+9,Find {0} Extra Words,800,2,10001,20
+9,Find {0} Extra Words,1000,1,10001,30
+10,Complete {0} Search Challenge,1,3,10001,10
+10,Complete {0} Search Challenge,3,3,10001,10
+10,Complete {0} Search Challenge,5,3,10001,10
+10,Complete {0} Search Challenge,7,3,10001,10
+10,Complete {0} Search Challenge,9,3,10001,10
+10,Complete {0} Search Challenge,12,2,10001,20
+10,Complete {0} Search Challenge,15,2,10001,20
+10,Complete {0} Search Challenge,18,2,10001,20
+10,Complete {0} Search Challenge,20,2,10001,20
+10,Complete {0} Search Challenge,30,1,10001,30
+10,Complete {0} Search Challenge,50,1,10001,30
+11,Complete {0} PIcture Challenge,1,3,10001,10
+11,Complete {0} PIcture Challenge,3,3,10001,10
+11,Complete {0} PIcture Challenge,5,3,10001,10
+11,Complete {0} PIcture Challenge,7,3,10001,10
+11,Complete {0} PIcture Challenge,9,3,10001,10
+11,Complete {0} PIcture Challenge,12,2,10001,20
+11,Complete {0} PIcture Challenge,15,2,10001,20
+11,Complete {0} PIcture Challenge,18,2,10001,20
+11,Complete {0} PIcture Challenge,20,2,10001,20
+11,Complete {0} PIcture Challenge,30,1,10001,30
+11,Complete {0} PIcture Challenge,50,1,10001,30
+12,Complete {0} Crossy Challenge,1,3,10001,10
+12,Complete {0} Crossy Challenge,3,3,10001,10
+12,Complete {0} Crossy Challenge,5,3,10001,10
+12,Complete {0} Crossy Challenge,7,3,10001,10
+12,Complete {0} Crossy Challenge,9,3,10001,10
+12,Complete {0} Crossy Challenge,12,2,10001,20
+12,Complete {0} Crossy Challenge,15,2,10001,20
+12,Complete {0} Crossy Challenge,18,2,10001,20
+12,Complete {0} Crossy Challenge,20,2,10001,20
+12,Complete {0} Crossy Challenge,30,1,10001,30
+12,Complete {0} Crossy Challenge,50,1,10001,30
+13,Complete {0} Puzzle Challenge,1,3,10001,10
+13,Complete {0} Puzzle Challenge,3,3,10001,10
+13,Complete {0} Puzzle Challenge,5,3,10001,10
+13,Complete {0} Puzzle Challenge,7,3,10001,10
+13,Complete {0} Puzzle Challenge,9,3,10001,10
+13,Complete {0} Puzzle Challenge,12,2,10001,20
+13,Complete {0} Puzzle Challenge,15,2,10001,20
+13,Complete {0} Puzzle Challenge,18,2,10001,20
+13,Complete {0} Puzzle Challenge,20,2,10001,20
+13,Complete {0} Puzzle Challenge,30,1,10001,30
+13,Complete {0} Puzzle Challenge,50,1,10001,30
+14,Gain {0} bouns in slots,1,3,10001,10
+14,Gain {0} bouns in slots,3,3,10001,10
+14,Gain {0} bouns in slots,5,3,10001,10
+14,Gain {0} bouns in slots,7,3,10001,10
+14,Gain {0} bouns in slots,9,2,10001,20
+14,Gain {0} bouns in slots,12,2,10001,20
+14,Gain {0} bouns in slots,15,2,10001,20
+14,Gain {0} bouns in slots,18,2,10001,20
+14,Gain {0} bouns in slots,20,1,10001,30
+15,Find {0} "WORD" in games,1,3,10001,10
+15,Find {0} "WORD" in games,3,3,10001,10
+15,Find {0} "WORD" in games,5,3,10001,10
+15,Find {0} "WORD" in games,7,2,10001,20
+16,Find {0} "CONNECT" in games,1,3,10001,10
+16,Find {0} "CONNECT" in games,3,3,10001,10
+16,Find {0} "CONNECT" in games,5,3,10001,10
+16,Find {0} "CONNECT" in games,7,2,10001,20

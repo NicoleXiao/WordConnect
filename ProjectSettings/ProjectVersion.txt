@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+m_EditorVersion: 2018.1.0f2
+=======
+m_EditorVersion: 2018.1.1f1
+>>>>>>> replace game icons
+=======
+m_EditorVersion: 2018.1.0f2
+>>>>>>> import to unity3d
